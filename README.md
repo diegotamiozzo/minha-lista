@@ -83,7 +83,7 @@ Também compatível com **Render**, **Railway** e **PythonAnywhere**.
 
 <div align="center">
 
-**Desenvolvido por Diego Tamiozzo** 
+**Desenvolvido  por Diego Tamiozzo**
 
 
 </div>
